@@ -2,6 +2,8 @@
 
 A modern, responsive snake game built with HTML, CSS, and JavaScript. Features smooth animations, particle effects, and touch controls for mobile devices.
 
+**Live Demo:** https://yinktech.github.io/snake-game/
+
 ## Features
 
 - **Responsive Design**: Adapts to different screen sizes and works on desktop and mobile
